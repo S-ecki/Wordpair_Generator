@@ -1,4 +1,4 @@
 
 .dart_tool/flutter_build/4322a3e11f6353b542cc8cba5eacf97b/.filecache
 *.txt
-build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin
+build/*
