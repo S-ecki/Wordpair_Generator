@@ -1,4 +1,4 @@
-# startup_namer
+# WordPair_Generator
 
  My first native App created using Flutter. It mainly follows the instructions from [this](https://flutter.dev/docs/get-started/codelab) Google Developers Codelab with a few additional twists. The files are full of comments, which should enhance my learning experience _(and perhaps help somebody else starting out with Flutter)._  
  
