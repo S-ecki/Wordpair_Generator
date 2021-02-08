@@ -9,7 +9,7 @@ Additionally, you can save and unsave your favourite words my clicking an heart-
 
 ## What I´ve learned 
 * Development setup in VSCode
-* Syntax and semantic of the Dart Programming Language
+* Syntax and semantic of Dart + loading packages with _pub_
 * General structure of a Flutter Application
 * The absolute beauty of the [Flutter Docs](https://flutter.dev/docs)
 * The 5000 most used english words ;)
