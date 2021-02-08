@@ -1,6 +1,6 @@
 # WordPair_Generator
-<img src="https://user-images.githubusercontent.com/75510543/107295121-0a339980-6a6f-11eb-94be-3d1f32b1b243.png" width=240 align="right">
-<img src="https://user-images.githubusercontent.com/75510543/107295244-46ff9080-6a6f-11eb-9483-ee5f45f0f743.png" width=240 align="right">
+<img src="https://user-images.githubusercontent.com/75510543/107295121-0a339980-6a6f-11eb-94be-3d1f32b1b243.png" width=235 align="right">
+<img src="https://user-images.githubusercontent.com/75510543/107295244-46ff9080-6a6f-11eb-9483-ee5f45f0f743.png" width=235 align="right">
 
 My first native App created using Flutter. It mainly follows the instructions from [this](https://flutter.dev/docs/get-started/codelab) Google Developers Codelab with a few additional twists. The files are full of comments, which should enhance my learning experience _(and perhaps help somebody else starting out with Flutter)._  
  
