@@ -4,7 +4,7 @@
  
 ## Functionality 
 You can find the main files in `/lib`. <br>
-WordPair_Generator consists of a Main Page with a scollable _ListView_ of randomly generated pairs of the 5000 most used english words (pulled from [here](https://pub.dev/packages/english_words)). <br>
+WordPair_Generator consists of a Main Page with a scollable _ListView_ of randomly generated pairs of the 5000 most used english words (pulled from [here](https://pub.dev/packages/english_words)). The list is infinitely long and lazily loades  10 WordPairs at a time. <br>
 Additionally, you can save and unsave your favourite words my clicking an heart-icon. Your favourite words can be viewed on a seperate page.
 
 ## What I´ve learned 
